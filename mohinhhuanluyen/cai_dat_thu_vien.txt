@@ -1,0 +1,15 @@
+Yêu cầu cài đặt các thư viện sau:
+
+Phiên bản python thích ứng : Python 3.10.11
+
+pip install pip install https://gitlab.com/trungtv/vi_spacy/-/raw/master/vi_core_news_lg/dist/vi_core_news_lg-0.0.1.tar.gz
+pip install pyvi
+pip install -U sentence-transformers
+pip install pandas
+pip install fastapi uvicorn
+
+Khởi chạy server: uvicorn api:app --reload
+Sau khi khởi tạo server uvicorn cần IP và PORT của server sau đó thay thế trong ứng dụng winform
+private async Task<string> SendRequestAsync(string input)
+    string apiUrl = "http://IP:PORT/dong-tham-chieu/";
+    #Thay thế IP VÀ PORT

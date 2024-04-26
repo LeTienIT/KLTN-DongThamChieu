@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\KLTN\DongThamChieu\DongThamChieu\bin\Debug\DongThamChieu.exe.config
+C:\Users\Admin\Desktop\KLTN\DongThamChieu\DongThamChieu\bin\Debug\DongThamChieu.exe
+C:\Users\Admin\Desktop\KLTN\DongThamChieu\DongThamChieu\bin\Debug\DongThamChieu.pdb
+C:\Users\Admin\Desktop\KLTN\DongThamChieu\DongThamChieu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\KLTN\DongThamChieu\DongThamChieu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\KLTN\DongThamChieu\DongThamChieu\obj\Debug\DongThamChieu.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\KLTN\DongThamChieu\DongThamChieu\obj\Debug\DongThamChieu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\KLTN\DongThamChieu\DongThamChieu\obj\Debug\DongThamChieu.Properties.Resources.resources
+C:\Users\Admin\Desktop\KLTN\DongThamChieu\DongThamChieu\obj\Debug\DongThamChieu.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\KLTN\DongThamChieu\DongThamChieu\obj\Debug\DongThamChieu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KLTN\DongThamChieu\DongThamChieu\obj\Debug\DongThamChieu.csproj.CopyComplete
+C:\Users\Admin\Desktop\KLTN\DongThamChieu\DongThamChieu\obj\Debug\DongThamChieu.exe
+C:\Users\Admin\Desktop\KLTN\DongThamChieu\DongThamChieu\obj\Debug\DongThamChieu.pdb
+C:\Users\Admin\Desktop\KLTN\DongThamChieu\DongThamChieu\obj\Debug\DongThamChieu.Form1.resources
